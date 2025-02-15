@@ -6,6 +6,7 @@ FontAwesome – Icons for UI elements
 Google Fonts – Stylish typography
 CDN & Hosting – Netlify
 
+Live-  pixel-nest.netlify.app
 
 📬 Contact:
 💌 Medha – www.linkedin.com/in/medha-durgapal-7ba6882a8
